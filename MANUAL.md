@@ -1,4 +1,9 @@
-# Patch Fix Camera 1.0 - By Emerson Teles
+# 🕹️ Patch Fix Camera 1.0 — Manual de Configuração & Referência Técnica
+
+<p align="center">
+  <a href="MANUAL.md"><img src="https://img.shields.io/badge/Manual-Português%20(PT--BR)-009c3b?style=for-the-badge&logo=readme&logoColor=white" alt="Versão em Português"></a>
+  <a href="MANUAL-EN.md"><img src="https://img.shields.io/badge/Manual-English-0052cc?style=for-the-badge&logo=readme&logoColor=white" alt="English Version"></a>
+</p>
 
 ## Referência vertical normalizada — versão 1.0, 12/10/2026
 

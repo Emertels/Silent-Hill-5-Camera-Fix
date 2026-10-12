@@ -1,8 +1,10 @@
 # 🕹️ Silent Hill 5: Homecoming — Camera Fix
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/Documentação-Português%20(PT--BR)-009c3b?style=for-the-badge&logo=readme&logoColor=white" alt="Versão em Português"></a>
-  <a href="README-EN.md"><img src="https://img.shields.io/badge/Documentation-English-0052cc?style=for-the-badge&logo=readme&logoColor=white" alt="English Version"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/README-Português%20(PT--BR)-009c3b?style=for-the-badge&logo=readme&logoColor=white" alt="Versão em Português"></a>
+  <a href="README-EN.md"><img src="https://img.shields.io/badge/README-English-0052cc?style=for-the-badge&logo=readme&logoColor=white" alt="English Version"></a>
+  <a href="MANUAL.md"><img src="https://img.shields.io/badge/Manual-Português%20(PT--BR)-009c3b?style=for-the-badge&logo=book&logoColor=white" alt="Manual em Português"></a>
+  <a href="MANUAL-EN.md"><img src="https://img.shields.io/badge/Manual-English-0052cc?style=for-the-badge&logo=book&logoColor=white" alt="English Manual"></a>
 </p>
 
 <p align="center">
