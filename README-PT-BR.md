@@ -18,21 +18,32 @@ Mod definitivo de correção de câmera normal no analógico direito do controle
 
 ---
 
+## 🎥 Vídeo Tutorial & Demonstração
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jG2zGsUt4w4" target="_blank">
+    <img src="https://img.youtube.com/vi/jG2zGsUt4w4/maxresdefault.jpg" alt="Vídeo Tutorial da Correção de Câmera de Silent Hill 5 no YouTube" width="95%">
+  </a>
+</p>
+
+---
+
 ## 📋 Sumário
 
-1. [Apresentação e Compatibilidade](#-apresentação-e-compatibilidade)
-2. [Download da Versão 1.0.0](#-download-da-versão-100)
-3. [Arquivos e Estrutura do Pacote](#-arquivos-e-estrutura-do-pacote)
-4. [Instalação Passo a Passo](#-instalação-passo-a-passo)
-5. [Configuração do INI (Sensibilidades)](#-configuração-do-ini-sensibilidades)
-6. [Valores, Decimais e Escalas Suportadas](#-valores-decimais-e-escalas-suportadas)
-7. [Cálculo da Câmera Normal e Calibração Vertical](#-cálculo-da-câmera-normal-e-calibração-vertical)
-8. [Mira e Acompanhamento do Personagem](#-mira-e-acompanhamento-do-personagem)
-9. [Correção de Memória (Crash Antes do Menu)](#-correção-de-memória-crash-antes-do-menu)
-10. [Backup Original e Restauração](#-backup-original-e-restauração)
-11. [Código-Fonte e Build](#-código-fonte-e-build)
-12. [Créditos e Autoria](#-créditos-e-autoria)
-13. [Sobre o Autor & Redes Oficiais](#-sobre-o-autor--redes-oficiais)
+1. [Vídeo Tutorial & Demonstração](#-vídeo-tutorial--demonstração)
+2. [Apresentação e Compatibilidade](#-apresentação-e-compatibilidade)
+3. [Download da Versão 1.0.0](#-download-da-versão-100)
+4. [Arquivos e Estrutura do Pacote](#-arquivos-e-estrutura-do-pacote)
+5. [Instalação Passo a Passo](#-instalação-passo-a-passo)
+6. [Configuração do INI (Sensibilidades)](#-configuração-do-ini-sensibilidades)
+7. [Valores, Decimais e Escalas Suportadas](#-valores-decimais-e-escalas-suportadas)
+8. [Cálculo da Câmera Normal e Calibração Vertical](#-cálculo-da-câmera-normal-e-calibração-vertical)
+9. [Mira e Acompanhamento do Personagem](#-mira-e-acompanhamento-do-personagem)
+10. [Correção de Memória (Crash Antes do Menu)](#-correção-de-memória-crash-antes-do-menu)
+11. [Backup Original e Restauração](#-backup-original-e-restauração)
+12. [Código-Fonte e Build](#-código-fonte-e-build)
+13. [Créditos e Autoria](#-créditos-e-autoria)
+14. [Sobre o Autor & Redes Oficiais](#-sobre-o-autor--redes-oficiais)
 
 ---
 

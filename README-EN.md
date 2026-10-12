@@ -18,21 +18,32 @@ Definitive camera fix mod for the controller (gamepad) right stick, smart charac
 
 ---
 
+## 🎥 Video Tutorial & Demonstration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jG2zGsUt4w4" target="_blank">
+    <img src="https://img.youtube.com/vi/jG2zGsUt4w4/maxresdefault.jpg" alt="Silent Hill 5 Camera Fix Video Tutorial on YouTube" width="95%">
+  </a>
+</p>
+
+---
+
 ## 📋 Table of Contents
 
-1. [Overview & Compatibility](#-overview--compatibility)
-2. [Download Version 1.0.0](#-download-version-100)
-3. [Files & Package Structure](#-files--package-structure)
-4. [Step-by-Step Installation](#-step-by-step-installation)
-5. [INI Configuration (Sensitivities)](#-ini-configuration-sensitivities)
-6. [Supported Values, Decimals & Scaling](#-supported-values-decimals--scaling)
-7. [Normal Camera Calculation & Vertical Calibration](#-normal-camera-calculation--vertical-calibration)
-8. [Aiming & Character Following](#-aiming--character-following)
-9. [Memory Protection Fix (Pre-Menu Crash)](#-memory-protection-fix-pre-menu-crash)
-10. [Original Backup & Restoration](#-original-backup--restoration)
-11. [Source Code & Build](#-source-code--build)
-12. [Credits & Authorship](#-credits--authorship)
-13. [About the Author & Official Links](#-about-the-author--official-links)
+1. [Video Tutorial & Demonstration](#-video-tutorial--demonstration)
+2. [Overview & Compatibility](#-overview--compatibility)
+3. [Download Version 1.0.0](#-download-version-100)
+4. [Files & Package Structure](#-files--package-structure)
+5. [Step-by-Step Installation](#-step-by-step-installation)
+6. [INI Configuration (Sensitivities)](#-ini-configuration-sensitivities)
+7. [Supported Values, Decimals & Scaling](#-supported-values-decimals--scaling)
+8. [Normal Camera Calculation & Vertical Calibration](#-normal-camera-calculation--vertical-calibration)
+9. [Aiming & Character Following](#-aiming--character-following)
+10. [Memory Protection Fix (Pre-Menu Crash)](#-memory-protection-fix-pre-menu-crash)
+11. [Original Backup & Restoration](#-original-backup--restoration)
+12. [Source Code & Build](#-source-code--build)
+13. [Credits & Authorship](#-credits--authorship)
+14. [About the Author & Official Links](#-about-the-author--official-links)
 
 ---
 
