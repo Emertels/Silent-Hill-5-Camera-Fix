@@ -1,0 +1,11 @@
+{
+  "horizontal_radians_per_second": 1.5,
+  "native_vertical_degrees_per_second": 60.0,
+  "native_degrees_to_radians": 0.01745329238474369,
+  "vertical_gain": 1.4323944989229112,
+  "user_vertical_calibration": 2.0,
+  "effective_vertical_gain": 2.8647889978458223,
+  "native_vertical_curve": "quadratic",
+  "mod_vertical_curve": "linear",
+  "basis": "User feedback: new Y1.0 equals previous Y2.0; not measured visual parity."
+}

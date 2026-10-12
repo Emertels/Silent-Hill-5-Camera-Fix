@@ -1,0 +1,13 @@
+# Temporary & Object files
+*.obj
+*.exp
+*.lib
+*.o
+*.a
+*.dmp
+*.zip
+
+# Python cache
+**/__pycache__/
+**/pydeps/
+*.pyc

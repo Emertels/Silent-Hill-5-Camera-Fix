@@ -1,0 +1,5 @@
+LIBRARY xinput1_3
+EXPORTS
+XInputGetState=ProxyXInputGetState@8 @2
+XInputSetState=ProxyXInputSetState@8 @3
+XInputGetCapabilities=ProxyXInputGetCapabilities@12 @4
