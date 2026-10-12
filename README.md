@@ -7,13 +7,6 @@
   <a href="MANUAL-EN.md"><img src="https://img.shields.io/badge/Manual-English-0052cc?style=for-the-badge&logo=book&logoColor=white" alt="English Manual"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Versão-v1.0.0-blue?style=for-the-badge" alt="Versão">
-  <img src="https://img.shields.io/badge/Status-100%25%20Funcional-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Plataforma-PC%20Windows-0078D6?style=for-the-badge&logo=windows" alt="Plataforma">
-  <img src="https://img.shields.io/badge/Licença-MIT-purple?style=for-the-badge" alt="Licença">
-</p>
-
 Mod definitivo de correção de câmera normal no analógico direito do controle (gamepad), acompanhamento inteligente atrás do personagem e sensibilidade vertical e de mira totalmente independente para **Silent Hill 5: Homecoming (PC)**, desenvolvido, calibrado e testado por **Emerson Teles**.
 
 ---

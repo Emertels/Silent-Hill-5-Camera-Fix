@@ -7,13 +7,6 @@
   <a href="MANUAL-EN.md"><img src="https://img.shields.io/badge/Manual-English-0052cc?style=for-the-badge&logo=book&logoColor=white" alt="English Manual"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Status-100%25%20Functional-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Platform-PC%20Windows-0078D6?style=for-the-badge&logo=windows" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" alt="License">
-</p>
-
 Definitive camera fix mod for the controller (gamepad) right stick, smart character-following camera, and independent vertical and aiming sensitivity for **Silent Hill 5: Homecoming (PC)**, developed, calibrated, and tested by **Emerson Teles**.
 
 ---
